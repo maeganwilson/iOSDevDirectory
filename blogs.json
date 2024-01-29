@@ -1654,8 +1654,8 @@
           {
             "title": "Finn Voorhees' Blog",
             "author": "Finn Voorhees",
-            "site_url": "https://finnvoorhees.com/words",
-            "feed_url": "https://finnvoorhees.com/rss.xml",
+            "site_url": "https://www.finnvoorhees.com/words",
+            "feed_url": "https://www.finnvoorhees.com/rss.xml",
             "twitter_url": "https://twitter.com/finnvoorhees",
             "mastodon_url": "https://mastodon.social/@finnvoorhees"
           },
@@ -3756,8 +3756,8 @@
           {
             "title": "rx_marin",
             "author": "Marin Todorov",
-            "site_url": "http://rx-marin.com/",
-            "feed_url": "http://rx-marin.com/index.xml",
+            "site_url": "https://rx-marin.com/",
+            "feed_url": "https://rx-marin.com/index.xml",
             "twitter_url": "https://twitter.com/icanzilb"
           },
           {
@@ -4167,8 +4167,8 @@
           {
             "title": "Swift Package Index Blog",
             "author": "Dave Verwer and Sven A. Schmidt",
-            "site_url": "https://blog.swiftpackageindex.com",
-            "feed_url": "https://blog.swiftpackageindex.com/feed.rss",
+            "site_url": "https://swiftpackageindex.com/blog",
+            "feed_url": "https://swiftpackageindex.com/blog/feed.xml",
             "twitter_url": "https://twitter.com/SwiftPackages",
             "mastodon_url": "https://mas.to/@SwiftPackageIndex"
           },
@@ -5837,7 +5837,7 @@
           {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
-            "site_url": "http://www.mtjc.fm",
+            "site_url": "https://www.mtjc.fm/",
             "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
@@ -5955,8 +5955,8 @@
           {
             "title": "iOS CI Newsletter",
             "author": "Pol Piella Abadia",
-            "site_url": "https://www.polpiella.dev/newsletter",
-            "feed_url": "https://www.polpiella.dev/newsletter/rss.xml",
+            "site_url": "https://www.ioscinewsletter.com",
+            "feed_url": "https://www.ioscinewsletter.com/issues/rss.xml",
             "twitter_url": "https://twitter.com/polpielladev"
           },
           {
